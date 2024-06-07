@@ -1,0 +1,20 @@
+.Cshape {
+    clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+
+}
+
+body {
+
+
+    background-image: linear-gradient(to right, rgba(0, 123, 255, 0), rgb(30, 174, 214));
+
+}
+
+.C:hover {
+    box-shadow: 9px 9px 8px 9px rgb(76, 12, 215);
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
+
+.C {
+    background: linear-gradient(to bottom, #ffffff 0%, #ff99ff 100%);
+}
